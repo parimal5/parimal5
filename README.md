@@ -18,9 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/parimal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/parimal5" height="30" width="40" /></a>
+<a href="https://dev.to/parimal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="parimal5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parimalmeshram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parimalmeshram/" height="30" width="40" /></a>
 <a href="https://medium.com/@parimalmeshram15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parimalmeshram15" height="30" width="40" /></a>
+<a href="https://parimal5.github.io/portfolio-website/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://parimal5.github.io/portfolio-website/" height="30" width="40" /></a>
 </p>
 
 ---
